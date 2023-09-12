@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="which_pakistani_food_would_you_like_to_cook">Which Pakistani food would You like to cook?</string>
+    <string name="foodie">foodie!</string>
+    <string name="hello">Hello</string>
+    <string name="_3_mins">3 mins</string>
+</resources>
